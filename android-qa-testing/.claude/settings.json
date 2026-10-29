@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 .claude/skills/android-qa/scripts/blind.py:*)",
+      "Bash(python3 .claude/skills/android-qa/scripts/admin.py:*)"
+    ],
+    "deny": [
+      "Bash(adb:*)"
+    ]
+  }
+}

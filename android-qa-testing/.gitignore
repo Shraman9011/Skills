@@ -1,0 +1,4 @@
+.qa-run/
+.qa-scope.json
+__pycache__/
+*.pyc

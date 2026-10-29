@@ -1,0 +1,7 @@
+{
+  "owner_confirmed": false,
+  "package": "com.example.myapp",
+  "allowed_hosts": ["staging-api.example.com"],
+  "destructive_tests": false,
+  "notes": "Copy to .qa-scope.json, set owner_confirmed to true only for apps you own. Staging backend and test accounts only."
+}
